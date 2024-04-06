@@ -1,3 +1,3 @@
-left=nombre;
-nombre= esteban;
+let = nombre;
+nombre= "esteban";
 console.log(nombre);
