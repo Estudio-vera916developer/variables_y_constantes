@@ -1,3 +1,3 @@
 let=nombre;
 nombre= esteban;
-console.log(nombre)
+console.log(nombre);
