@@ -1,3 +1,2 @@
-let=nombre;
-nombre= "esteban";
-console.log("hola, " +nombre);
+let nom = "esteban";
+console.log("hola, " + nom );

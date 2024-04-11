@@ -1,3 +1,2 @@
-let = nombre;
-nombre= "esteban";
+let nombre= "esteban";
 console.log(nombre);
